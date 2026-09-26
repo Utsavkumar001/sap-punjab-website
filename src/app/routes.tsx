@@ -3,7 +3,7 @@ import { Root } from './Root';
 import { Home } from './pages/Home';
 import { AboutPage } from './pages/AboutPage';
 import { GalleryPage } from './pages/GalleryPage';
-import { ContactPage } from './pages/Contactpage';
+import { ContactPage } from './pages/ContactPage';
 import { EventsPage } from './pages/EventsPage';
 import { LoginPage } from './pages/LoginPage';
 import { DistrictDashboard } from './pages/DistrictDashboard';
